@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(19, 15, 15);
+    color: aliceblue;
+    font-size: 20px;
+    padding: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.demo{
+    color:orange;
+    font-size: 50px;
+}
