@@ -14,6 +14,10 @@ function App() {
     setCount(count+1)
   }
 
+  function decrement(){
+    setData(3);
+  }
+
   return (
 
        <div className='App'>
